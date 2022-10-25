@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week 1 - Introduction to Programming/Week 1 - Introduction to Programming.iml" filepath="$PROJECT_DIR$/Week 1 - Introduction to Programming/Week 1 - Introduction to Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 10 - Inheritance/Week 10 - Inheritance.iml" filepath="$PROJECT_DIR$/Week 10 - Inheritance/Week 10 - Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 11 - Polymorphism/Week 11 - Polymorphism.iml" filepath="$PROJECT_DIR$/Week 11 - Polymorphism/Week 11 - Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 12 - Interfaces and Exam Preparation/Week 12 - Interfaces and Exam Preparation.iml" filepath="$PROJECT_DIR$/Week 12 - Interfaces and Exam Preparation/Week 12 - Interfaces and Exam Preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 2  - Variables, Constants and Data Types/Week 2  - Variables, Constants and Data Types.iml" filepath="$PROJECT_DIR$/Week 2  - Variables, Constants and Data Types/Week 2  - Variables, Constants and Data Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 3 - Operators, Expressions and Statements/Week 3 - Operators, Expressions and Statements.iml" filepath="$PROJECT_DIR$/Week 3 - Operators, Expressions and Statements/Week 3 - Operators, Expressions and Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 4 - Methods/Week 4 - Methods.iml" filepath="$PROJECT_DIR$/Week 4 - Methods/Week 4 - Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 5 - Value and Reference Types, Arrays, Java Class Library/Week 5 - Value and Reference Types, Arrays, Java Class Library.iml" filepath="$PROJECT_DIR$/Week 5 - Value and Reference Types, Arrays, Java Class Library/Week 5 - Value and Reference Types, Arrays, Java Class Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 6 - Selection Control Structure/Week 6 - Selection Control Structure.iml" filepath="$PROJECT_DIR$/Week 6 - Selection Control Structure/Week 6 - Selection Control Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 8 - Classes/Week 8 - Classes.iml" filepath="$PROJECT_DIR$/Week 8 - Classes/Week 8 - Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 9 - Classes and Multi Class Applications/Week 9 - Classes and Multi Class Applications.iml" filepath="$PROJECT_DIR$/Week 9 - Classes and Multi Class Applications/Week 9 - Classes and Multi Class Applications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fit1051-lessons.iml" filepath="$PROJECT_DIR$/.idea/fit1051-lessons.iml" />
+    </modules>
+  </component>
+</project>
