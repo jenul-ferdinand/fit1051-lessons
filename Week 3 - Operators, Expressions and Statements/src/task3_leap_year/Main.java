@@ -5,8 +5,17 @@ package task3_leap_year;
 
 public class Main {
 	public static void main(String[] args) {
-		int number = 2021;
+		// The list of years to test
+		int[] years = {2021, 2010, 1832, 1966, 2003, 1977, 1980};
 
-		boolean leapYear = (number % 4 == 0 && number % 100 != 0);
+		// Loop through all the years
+		for (int i = 0; i < years.length; i++) {
+			// The calculation for true or false
+			boolean isLeapYear = ((years[i] % 4 == 0) && (years[i] % 100 != 0) || (years[i] % 400 == 0));
+			// This is the string manipulation for true or false
+			String str = isLeapYear ? "is" : "is not";
+			// Output
+			System.out.println("The year " + years[i] + " " + str + " a leap year.");
+		}
 	}
 }
