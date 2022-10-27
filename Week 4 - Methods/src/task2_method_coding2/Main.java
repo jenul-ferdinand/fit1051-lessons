@@ -7,7 +7,7 @@ public class Main {
 		Main main = new Main();
 
 		// Testing method
-		System.out.println(coneVolume(12, 6));
+		System.out.println(main.coneVolume(12, 6));
 	}
 
 	// Cone Volume
